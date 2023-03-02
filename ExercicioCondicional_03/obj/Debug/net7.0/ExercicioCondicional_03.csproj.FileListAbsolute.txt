@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioCondicional_03\bin\Debug\net7.0\ExercicioCondicional_03.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioCondicional_03\bin\Debug\net7.0\ExercicioCondicional_03.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioCondicional_03\bin\Debug\net7.0\ExercicioCondicional_03.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioCondicional_03\bin\Debug\net7.0\ExercicioCondicional_03.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioCondicional_03\bin\Debug\net7.0\ExercicioCondicional_03.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioCondicional_03\obj\Debug\net7.0\ExercicioCondicional_03.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioCondicional_03\obj\Debug\net7.0\ExercicioCondicional_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioCondicional_03\obj\Debug\net7.0\ExercicioCondicional_03.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioCondicional_03\obj\Debug\net7.0\ExercicioCondicional_03.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioCondicional_03\obj\Debug\net7.0\ExercicioCondicional_03.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioCondicional_03\obj\Debug\net7.0\ExercicioCondicional_03.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioCondicional_03\obj\Debug\net7.0\refint\ExercicioCondicional_03.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioCondicional_03\obj\Debug\net7.0\ExercicioCondicional_03.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioCondicional_03\obj\Debug\net7.0\ExercicioCondicional_03.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioCondicional_03\obj\Debug\net7.0\ref\ExercicioCondicional_03.dll

@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntradaDesafio\bin\Debug\net7.0\DadosDeEntradaDesafio.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntradaDesafio\bin\Debug\net7.0\DadosDeEntradaDesafio.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntradaDesafio\bin\Debug\net7.0\DadosDeEntradaDesafio.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntradaDesafio\bin\Debug\net7.0\DadosDeEntradaDesafio.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntradaDesafio\bin\Debug\net7.0\DadosDeEntradaDesafio.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntradaDesafio\obj\Debug\net7.0\DadosDeEntradaDesafio.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntradaDesafio\obj\Debug\net7.0\DadosDeEntradaDesafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntradaDesafio\obj\Debug\net7.0\DadosDeEntradaDesafio.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntradaDesafio\obj\Debug\net7.0\DadosDeEntradaDesafio.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntradaDesafio\obj\Debug\net7.0\DadosDeEntradaDesafio.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntradaDesafio\obj\Debug\net7.0\DadosDeEntradaDesafio.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntradaDesafio\obj\Debug\net7.0\refint\DadosDeEntradaDesafio.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntradaDesafio\obj\Debug\net7.0\DadosDeEntradaDesafio.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntradaDesafio\obj\Debug\net7.0\DadosDeEntradaDesafio.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntradaDesafio\obj\Debug\net7.0\ref\DadosDeEntradaDesafio.dll

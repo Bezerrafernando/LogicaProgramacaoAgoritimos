@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ExercicioEstruturaSequencial02/1.0.0": {
+        "runtime": {
+          "ExercicioEstruturaSequencial02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioEstruturaSequencial02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntrada2\obj\Debug\net7.0\DadosDeEntrada2.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntrada2\obj\Debug\net7.0\DadosDeEntrada2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntrada2\obj\Debug\net7.0\DadosDeEntrada2.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntrada2\obj\Debug\net7.0\DadosDeEntrada2.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntrada2\obj\Debug\net7.0\DadosDeEntrada2.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntrada2\bin\Debug\net7.0\DadosDeEntrada2.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntrada2\bin\Debug\net7.0\DadosDeEntrada2.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntrada2\bin\Debug\net7.0\DadosDeEntrada2.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntrada2\bin\Debug\net7.0\DadosDeEntrada2.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntrada2\bin\Debug\net7.0\DadosDeEntrada2.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntrada2\obj\Debug\net7.0\DadosDeEntrada2.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntrada2\obj\Debug\net7.0\refint\DadosDeEntrada2.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntrada2\obj\Debug\net7.0\DadosDeEntrada2.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntrada2\obj\Debug\net7.0\DadosDeEntrada2.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\DadosDeEntrada2\obj\Debug\net7.0\ref\DadosDeEntrada2.dll

@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioEstruturaSequencial02\bin\Debug\net7.0\ExercicioEstruturaSequencial02.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioEstruturaSequencial02\bin\Debug\net7.0\ExercicioEstruturaSequencial02.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioEstruturaSequencial02\bin\Debug\net7.0\ExercicioEstruturaSequencial02.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioEstruturaSequencial02\bin\Debug\net7.0\ExercicioEstruturaSequencial02.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioEstruturaSequencial02\bin\Debug\net7.0\ExercicioEstruturaSequencial02.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioEstruturaSequencial02\obj\Debug\net7.0\ExercicioEstruturaSequencial02.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioEstruturaSequencial02\obj\Debug\net7.0\ExercicioEstruturaSequencial02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioEstruturaSequencial02\obj\Debug\net7.0\ExercicioEstruturaSequencial02.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioEstruturaSequencial02\obj\Debug\net7.0\ExercicioEstruturaSequencial02.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioEstruturaSequencial02\obj\Debug\net7.0\ExercicioEstruturaSequencial02.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioEstruturaSequencial02\obj\Debug\net7.0\ExercicioEstruturaSequencial02.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioEstruturaSequencial02\obj\Debug\net7.0\refint\ExercicioEstruturaSequencial02.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioEstruturaSequencial02\obj\Debug\net7.0\ExercicioEstruturaSequencial02.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioEstruturaSequencial02\obj\Debug\net7.0\ExercicioEstruturaSequencial02.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExercicioEstruturaSequencial02\obj\Debug\net7.0\ref\ExercicioEstruturaSequencial02.dll

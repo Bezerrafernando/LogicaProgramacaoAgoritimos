@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\FuncoesMatematicas\obj\Debug\net7.0\FuncoesMatematicas.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\FuncoesMatematicas\obj\Debug\net7.0\FuncoesMatematicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\FuncoesMatematicas\obj\Debug\net7.0\FuncoesMatematicas.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\FuncoesMatematicas\obj\Debug\net7.0\FuncoesMatematicas.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\FuncoesMatematicas\obj\Debug\net7.0\FuncoesMatematicas.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\FuncoesMatematicas\bin\Debug\net7.0\FuncoesMatematicas.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\FuncoesMatematicas\bin\Debug\net7.0\FuncoesMatematicas.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\FuncoesMatematicas\bin\Debug\net7.0\FuncoesMatematicas.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\FuncoesMatematicas\bin\Debug\net7.0\FuncoesMatematicas.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\FuncoesMatematicas\bin\Debug\net7.0\FuncoesMatematicas.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\FuncoesMatematicas\obj\Debug\net7.0\FuncoesMatematicas.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\FuncoesMatematicas\obj\Debug\net7.0\refint\FuncoesMatematicas.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\FuncoesMatematicas\obj\Debug\net7.0\FuncoesMatematicas.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\FuncoesMatematicas\obj\Debug\net7.0\FuncoesMatematicas.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\FuncoesMatematicas\obj\Debug\net7.0\ref\FuncoesMatematicas.dll

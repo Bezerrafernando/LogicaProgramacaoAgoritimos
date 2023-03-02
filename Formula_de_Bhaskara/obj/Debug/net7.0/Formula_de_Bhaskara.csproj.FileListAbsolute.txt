@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Formula_de_Bhaskara\bin\Debug\net7.0\Formula_de_Bhaskara.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Formula_de_Bhaskara\bin\Debug\net7.0\Formula_de_Bhaskara.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Formula_de_Bhaskara\bin\Debug\net7.0\Formula_de_Bhaskara.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Formula_de_Bhaskara\bin\Debug\net7.0\Formula_de_Bhaskara.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Formula_de_Bhaskara\bin\Debug\net7.0\Formula_de_Bhaskara.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Formula_de_Bhaskara\obj\Debug\net7.0\Formula_de_Bhaskara.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Formula_de_Bhaskara\obj\Debug\net7.0\Formula_de_Bhaskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Formula_de_Bhaskara\obj\Debug\net7.0\Formula_de_Bhaskara.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Formula_de_Bhaskara\obj\Debug\net7.0\Formula_de_Bhaskara.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Formula_de_Bhaskara\obj\Debug\net7.0\Formula_de_Bhaskara.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Formula_de_Bhaskara\obj\Debug\net7.0\Formula_de_Bhaskara.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Formula_de_Bhaskara\obj\Debug\net7.0\refint\Formula_de_Bhaskara.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Formula_de_Bhaskara\obj\Debug\net7.0\Formula_de_Bhaskara.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Formula_de_Bhaskara\obj\Debug\net7.0\Formula_de_Bhaskara.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Formula_de_Bhaskara\obj\Debug\net7.0\ref\Formula_de_Bhaskara.dll
