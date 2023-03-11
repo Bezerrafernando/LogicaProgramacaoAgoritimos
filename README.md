@@ -1,5 +1,6 @@
 # Exercício e Desafios de lógica de programação 
 
+Introdução à programação
 
 Algoritmo, Automação, Programa de Computador
 
@@ -10,6 +11,7 @@ problema.
 * aplica-se a diversas áreas de conhecimento
 
 Computador
+
 • Hardware - parte física (a máquina em si)
 • Software - parte lógica (programas)
 • Sistema operacional (Windows, Linux, Mac)
@@ -19,7 +21,8 @@ navegador web)
 • Utilitários (Antivírus, compactador de arquivos)
 • Outros
 
-Programa ~ Algoritmo
+Programa e Algoritmo
+
 Programas de computador são algoritmos executados pelo computador
 (em linhas gerais).
 Conclusão: o computador é uma máquina que automatiza a execução de
@@ -28,10 +31,8 @@ Qualquer algoritmo? Não. Apenas algoritmos computacionais:
 - Processamento de dados
 - Cálculos
 
-O que é preciso para se fazer um
-programa de computador?
+O que é preciso para se fazer um programa de computador?
 
-Vamos precisar de:
 • Uma linguagem de programação: regras léxicas e sintáticas para se
 escrever o programa
 • Uma IDE: software para editar e testar o programa
@@ -40,8 +41,7 @@ objeto
 • Um gerador de código ou máquina virtual: software que permite que o
 programa seja executado
 
-Linguagem de programação,
-léxica, sintática
+Linguagem de programação, léxica, sintática
 
 • Uma linguagem de programação: regras léxicas e sintáticas para se
 escrever o programa
@@ -62,12 +62,14 @@ Diz respeito à correção das palavras "isoladas" (ortografia).
 Sintática
 Diz respeito à correção das sentenças (gramática).
 
-Linguagem de programação
+Linguagem de programação: 
+
 Exemplos de linguagens de programação:
 C, Pascal, C++, Java, C#, Python, Ruby, PHP, JavaScript, etc.
 
 
 Funcionalidades de uma IDE
+
 • Edição de código fonte (indentação, autocompletar, destaque de
 palavras, etc.)
 • Depuração e testes
