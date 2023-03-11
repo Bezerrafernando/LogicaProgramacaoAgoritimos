@@ -1,6 +1,5 @@
-# Exercício e Desafios de lógica de programação 
+# Introdução à programação
 
-Introdução à programação
 
 Algoritmo, Automação, Programa de Computador
 
