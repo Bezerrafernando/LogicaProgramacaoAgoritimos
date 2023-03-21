@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Uri_1113_Crescente_e_Decrescente\obj\Debug\net7.0\Uri_1113_Crescente_e_Decrescente.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Uri_1113_Crescente_e_Decrescente\obj\Debug\net7.0\Uri_1113_Crescente_e_Decrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Uri_1113_Crescente_e_Decrescente\obj\Debug\net7.0\Uri_1113_Crescente_e_Decrescente.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Uri_1113_Crescente_e_Decrescente\obj\Debug\net7.0\Uri_1113_Crescente_e_Decrescente.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Uri_1113_Crescente_e_Decrescente\obj\Debug\net7.0\Uri_1113_Crescente_e_Decrescente.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Uri_1113_Crescente_e_Decrescente\bin\Debug\net7.0\Uri_1113_Crescente_e_Decrescente.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Uri_1113_Crescente_e_Decrescente\bin\Debug\net7.0\Uri_1113_Crescente_e_Decrescente.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Uri_1113_Crescente_e_Decrescente\bin\Debug\net7.0\Uri_1113_Crescente_e_Decrescente.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Uri_1113_Crescente_e_Decrescente\bin\Debug\net7.0\Uri_1113_Crescente_e_Decrescente.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Uri_1113_Crescente_e_Decrescente\bin\Debug\net7.0\Uri_1113_Crescente_e_Decrescente.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Uri_1113_Crescente_e_Decrescente\obj\Debug\net7.0\Uri_1113_Crescente_e_Decrescente.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Uri_1113_Crescente_e_Decrescente\obj\Debug\net7.0\refint\Uri_1113_Crescente_e_Decrescente.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Uri_1113_Crescente_e_Decrescente\obj\Debug\net7.0\Uri_1113_Crescente_e_Decrescente.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Uri_1113_Crescente_e_Decrescente\obj\Debug\net7.0\Uri_1113_Crescente_e_Decrescente.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Uri_1113_Crescente_e_Decrescente\obj\Debug\net7.0\ref\Uri_1113_Crescente_e_Decrescente.dll

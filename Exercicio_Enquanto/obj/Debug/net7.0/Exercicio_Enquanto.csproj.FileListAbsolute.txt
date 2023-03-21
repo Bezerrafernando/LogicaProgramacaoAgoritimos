@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Exercicio_Enquanto\obj\Debug\net7.0\Exercicio_Enquanto.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Exercicio_Enquanto\obj\Debug\net7.0\Exercicio_Enquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Exercicio_Enquanto\obj\Debug\net7.0\Exercicio_Enquanto.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Exercicio_Enquanto\obj\Debug\net7.0\Exercicio_Enquanto.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Exercicio_Enquanto\obj\Debug\net7.0\Exercicio_Enquanto.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Exercicio_Enquanto\bin\Debug\net7.0\Exercicio_Enquanto.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Exercicio_Enquanto\bin\Debug\net7.0\Exercicio_Enquanto.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Exercicio_Enquanto\bin\Debug\net7.0\Exercicio_Enquanto.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Exercicio_Enquanto\bin\Debug\net7.0\Exercicio_Enquanto.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Exercicio_Enquanto\bin\Debug\net7.0\Exercicio_Enquanto.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Exercicio_Enquanto\obj\Debug\net7.0\Exercicio_Enquanto.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Exercicio_Enquanto\obj\Debug\net7.0\refint\Exercicio_Enquanto.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Exercicio_Enquanto\obj\Debug\net7.0\Exercicio_Enquanto.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Exercicio_Enquanto\obj\Debug\net7.0\Exercicio_Enquanto.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\Exercicio_Enquanto\obj\Debug\net7.0\ref\Exercicio_Enquanto.dll
