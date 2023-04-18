@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosVertores07\obj\Debug\net7.0\ExerciciosVertores07.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosVertores07\obj\Debug\net7.0\ExerciciosVertores07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosVertores07\obj\Debug\net7.0\ExerciciosVertores07.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosVertores07\obj\Debug\net7.0\ExerciciosVertores07.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosVertores07\obj\Debug\net7.0\ExerciciosVertores07.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosVertores07\bin\Debug\net7.0\ExerciciosVertores07.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosVertores07\bin\Debug\net7.0\ExerciciosVertores07.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosVertores07\bin\Debug\net7.0\ExerciciosVertores07.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosVertores07\bin\Debug\net7.0\ExerciciosVertores07.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosVertores07\bin\Debug\net7.0\ExerciciosVertores07.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosVertores07\obj\Debug\net7.0\ExerciciosVertores07.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosVertores07\obj\Debug\net7.0\refint\ExerciciosVertores07.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosVertores07\obj\Debug\net7.0\ExerciciosVertores07.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosVertores07\obj\Debug\net7.0\ExerciciosVertores07.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosVertores07\obj\Debug\net7.0\ref\ExerciciosVertores07.dll
