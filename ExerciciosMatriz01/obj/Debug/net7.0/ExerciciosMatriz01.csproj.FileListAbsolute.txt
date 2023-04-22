@@ -1,0 +1,15 @@
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosMatriz01\obj\Debug\net7.0\ExerciciosMatriz01.csproj.AssemblyReference.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosMatriz01\obj\Debug\net7.0\ExerciciosMatriz01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosMatriz01\obj\Debug\net7.0\ExerciciosMatriz01.AssemblyInfoInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosMatriz01\obj\Debug\net7.0\ExerciciosMatriz01.AssemblyInfo.cs
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosMatriz01\obj\Debug\net7.0\ExerciciosMatriz01.csproj.CoreCompileInputs.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosMatriz01\bin\Debug\net7.0\ExerciciosMatriz01.exe
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosMatriz01\bin\Debug\net7.0\ExerciciosMatriz01.deps.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosMatriz01\bin\Debug\net7.0\ExerciciosMatriz01.runtimeconfig.json
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosMatriz01\bin\Debug\net7.0\ExerciciosMatriz01.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosMatriz01\bin\Debug\net7.0\ExerciciosMatriz01.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosMatriz01\obj\Debug\net7.0\ExerciciosMatriz01.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosMatriz01\obj\Debug\net7.0\refint\ExerciciosMatriz01.dll
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosMatriz01\obj\Debug\net7.0\ExerciciosMatriz01.pdb
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosMatriz01\obj\Debug\net7.0\ExerciciosMatriz01.genruntimeconfig.cache
+C:\Users\Dbezerra\Documents\Visual Studio Code\LogicaProgramacaoAgoritimos\ExerciciosMatriz01\obj\Debug\net7.0\ref\ExerciciosMatriz01.dll
